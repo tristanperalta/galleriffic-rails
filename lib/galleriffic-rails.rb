@@ -1,0 +1,1 @@
+require 'galleriffic/rails/engine'
